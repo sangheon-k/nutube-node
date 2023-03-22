@@ -1,10 +1,5 @@
-# react_youtube_app
+# nutube-node
 
-// Video multer s3 업로드 기능 필요
-// 프론트 Video 가져오는 경로 변경 필요
-// 검색 기능 필요
-// 메인 페이지 Grid반응형 작업 필요
-// 전체적인 UI 개선 및 영문 표기 한글로 변경필요
+# Todo
 
-프론트엔드
-// 비디오 업로드시 카테고리 옵션 디폴트값 필요
+- Video s3 업로드 기능 필요
